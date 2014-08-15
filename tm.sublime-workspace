@@ -1,0 +1,1167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"actionKey	var"
+			],
+			[
+				"get",
+				"getClassName(...)	String"
+			],
+			[
+				"con",
+				"context	var"
+			],
+			[
+				"remove",
+				"removeChildren(...)	Void"
+			],
+			[
+				"Log",
+				"LogPanel	panel"
+			],
+			[
+				"pro",
+				"progressText	var"
+			],
+			[
+				"remo",
+				"removeChildren(...)	Void"
+			],
+			[
+				"Text",
+				"TextField	flash.text"
+			],
+			[
+				"Displa",
+				"DisplayObject	openfl.display"
+			],
+			[
+				"RE",
+				"REMOVED_FROM_STAGE	String"
+			],
+			[
+				"res",
+				"researchItem	var"
+			],
+			[
+				"MOuse",
+				"MOUSE_OUT	String"
+			],
+			[
+				"ca",
+				"caption	var"
+			],
+			[
+				"Panel",
+				"PanelCaption	class"
+			],
+			[
+				"Pa",
+				"PanelCaption	class"
+			],
+			[
+				"Gra",
+				"GradientContainer	art"
+			],
+			[
+				"gra",
+				"GradientContainer	art"
+			],
+			[
+				"pa",
+				"passiveCaption	var"
+			],
+			[
+				"di",
+				"digitHash"
+			],
+			[
+				"a",
+				"ArrayJoin"
+			],
+			[
+				"R",
+				"ResolveTable"
+			],
+			[
+				"ha",
+				"hashes"
+			],
+			[
+				"Ha",
+				"HandIdHashPowerMask"
+			],
+			[
+				"A",
+				"A_index"
+			],
+			[
+				"re",
+				"resultsArray"
+			],
+			[
+				"resu",
+				"resultsArray"
+			],
+			[
+				"st",
+				"stat"
+			],
+			[
+				"sta",
+				"stat_expr"
+			],
+			[
+				"par",
+				"parsedFile"
+			],
+			[
+				"fu",
+				"fullFile"
+			],
+			[
+				"He",
+				"HevokPos"
+			],
+			[
+				"ini",
+				"iniFile"
+			],
+			[
+				"lo",
+				"logFile"
+			],
+			[
+				"hi",
+				"historyText"
+			],
+			[
+				"Name",
+				"NameHash"
+			],
+			[
+				"qu",
+				"query_result"
+			],
+			[
+				"Str",
+				"StringTrimRight"
+			],
+			[
+				"q",
+				"query_result"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"Pla",
+				"PlayerInfoTop"
+			],
+			[
+				"A_",
+				"A_Index"
+			],
+			[
+				"sea",
+				"search_terms"
+			],
+			[
+				"clip",
+				"clipboard"
+			],
+			[
+				"ps",
+				"psql_ram"
+			],
+			[
+				"las",
+				"lastState"
+			],
+			[
+				"h",
+				"historyFilename"
+			],
+			[
+				"I",
+				"InitPlayers"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"Re",
+				"ResolvePlayerName"
+			],
+			[
+				"Get",
+				"GetPlayerNameHash"
+			],
+			[
+				"c",
+				"currentHandIdHash"
+			],
+			[
+				"han",
+				"handId"
+			],
+			[
+				"hash",
+				"hashFilename"
+			],
+			[
+				"has",
+				"hashFilename"
+			],
+			[
+				"player",
+				"PlayerCashBox"
+			],
+			[
+				"Player",
+				"PlayerNameHashMask"
+			],
+			[
+				"Set",
+				"SetFormat"
+			],
+			[
+				"i",
+				"If"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"G",
+				"GenerateSingleColorHash"
+			],
+			[
+				"to",
+				"totalPlayers"
+			],
+			[
+				"Cec",
+				"CheckPlayerExist"
+			],
+			[
+				"cou",
+				"counterValue"
+			],
+			[
+				"coun",
+				"counterName"
+			],
+			[
+				"Con",
+				"counterValue"
+			],
+			[
+				"co",
+				"counterName"
+			],
+			[
+				"car",
+				"cardArr"
+			],
+			[
+				"A_i",
+				"A_index"
+			],
+			[
+				"Ch",
+				"CheckHiddenCard"
+			],
+			[
+				"oc",
+				"ocrUtilArgs"
+			],
+			[
+				"Oc",
+				"OcrBox"
+			],
+			[
+				"H",
+				"HiddenCardHandPos"
+			],
+			[
+				"su",
+				"suitTestColor"
+			],
+			[
+				"L",
+				"lastHandId"
+			],
+			[
+				"lastHa",
+				"lastHandId"
+			],
+			[
+				"La",
+				"lastHand"
+			],
+			[
+				"Ge",
+				"GetHands"
+			],
+			[
+				"is",
+				"isPokerWindowActive"
+			],
+			[
+				"win",
+				"WinActive"
+			],
+			[
+				"S",
+				"ShowStatusOn"
+			],
+			[
+				"P",
+				"PlayerNameHashFile"
+			],
+			[
+				"s",
+				"storedFilename"
+			],
+			[
+				"cap",
+				"captureFilename"
+			],
+			[
+				"cp",
+				"captureFilename"
+			],
+			[
+				"o",
+				"OcrFile"
+			],
+			[
+				"Fil",
+				"captureFilename"
+			],
+			[
+				"N",
+				"NamesHashTableFile"
+			],
+			[
+				"Ra",
+				"RankHashResolveTable"
+			],
+			[
+				"M",
+				"MaxIndex"
+			],
+			[
+				"col",
+				"colorArray"
+			],
+			[
+				"card",
+				"card_end"
+			],
+			[
+				"Pl",
+				"PlayerNameMask"
+			],
+			[
+				"wo",
+				"workWindow"
+			],
+			[
+				"Mouse",
+				"MouseGetPos"
+			],
+			[
+				"Win",
+				"WinActive"
+			],
+			[
+				"w",
+				"work_window"
+			],
+			[
+				"p",
+				"pBitmap"
+			],
+			[
+				"b",
+				"backgroundHandling"
+			],
+			[
+				"GetPi",
+				"GetPixelColor"
+			],
+			[
+				"hw",
+				"hwnd"
+			],
+			[
+				"Up",
+				"UpdateOn"
+			],
+			[
+				"Max",
+				"maxPlayers"
+			],
+			[
+				"last",
+				"lastHand"
+			],
+			[
+				"E",
+				"Eq1"
+			],
+			[
+				"Clea",
+				"ClearHands"
+			],
+			[
+				"Cle",
+				"Clear"
+			],
+			[
+				"Eq",
+				"Equities"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sync+",
+				"Set Syntax: C++"
+			],
+			[
+				"synau",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"sync",
+				"Set Syntax: C"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"syn au",
+				"Set Syntax: AutoHotkey"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 145.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/dev/sbt/prj/tm/index.html",
+		"/D/dev/sbt/prj/jshello/build.sbt",
+		"/D/dev/sbt/prj/jshello/src/main/scala/tutorial/webapp/TutorialApp.scala",
+		"/D/dev/prj/Craft Quest/src/resource/CraftItem.hx",
+		"/D/dev/prj/Craft Quest/src/structure/StructureStatusBar.hx",
+		"/D/dev/prj/Craft Quest/src/caption/ResearchCaption.hx",
+		"/G/Documents and Settings/Администратор/Local Settings/Application Data/FlashDevelop/Templates/ProjectFiles/HaxeProject/Class.hx.fdt.wizard",
+		"/D/dev/prj/Craft Quest/src/resource/ResourceStatusBar.hx",
+		"/D/dev/prj/Craft Quest/src/research/ResearchStatusBar.hx",
+		"/D/dev/prj/Craft Quest/src/ui/statusbar/IconicStatusBar.hx",
+		"/D/dev/prj/Craft Quest/src/ui/statusbar/StatusBar.hx",
+		"/D/dev/prj/Craft Quest/src/caption/SmallText.hx",
+		"/D/dev/prj/Craft Quest/assets/data/json/item/crafts.json",
+		"/D/dev/prj/Craft Quest/assets/data/json/item/materials.json",
+		"/D/dev/prj/Craft Quest/assets/data/json/item/structures.json",
+		"/D/dev/prj/Craft Quest/src/base/IconItem.hx",
+		"/D/dev/prj/Craft Quest/src/resource/ResourceItem.hx",
+		"/D/dev/prj/Craft Quest/src/ui/StatusBar.hx",
+		"/D/dev/prj/Craft Quest/assets/data/json/item/research.json",
+		"/D/dev/prj/Craft Quest/src/research/ResearchHandler.hx",
+		"/D/dev/prj/Craft Quest/src/research/ResearchItem.hx",
+		"/D/dev/prj/Craft Quest/src/panel/ResearchPanel.hx",
+		"/D/dev/prj/Craft Quest/src/gen/Entity.hx",
+		"/D/dev/prj/Craft Quest/src/panel/ResourceItemPanel.hx",
+		"/D/dev/prj/Craft Quest/src/ui/BasicPanel.hx",
+		"/D/dev/prj/Craft Quest/src/abs/Item.hx",
+		"/D/dev/prj/Craft Quest/src/panel/ItemPanel.hx",
+		"/D/dev/prj/Craft Quest/src/base/Player.hx",
+		"/D/dev/prj/Craft Quest/assets/data/json/research.json",
+		"/D/dev/prj/Craft Quest/src/resource/Resource.hx",
+		"/D/dev/prj/Craft Quest/src/ui/PanelContainer.hx",
+		"/D/dev/prj/Craft Quest/src/resource/Item.hx",
+		"/D/dev/prj/Craft Quest/src/caption/InteractiveCaption.hx",
+		"/D/dev/prj/Craft Quest/assets/data/json/materials.json",
+		"/D/dev/prj/Craft Quest/craft quest.sublime-project",
+		"/D/dev/prj/Craft Quest/Craft Quest.hxproj",
+		"/D/dev/prj/Craft Quest/src/panel/ConsolePanel.hx",
+		"/D/dev/prj/Craft Quest/src/Lang.hx",
+		"/D/dev/prj/Craft Quest/assets/lang/en/materials.json",
+		"/D/dev/prj/Craft Quest/assets/lang/en/common.json",
+		"/D/dev/prj/Craft Quest/src/panel/ResourcePanel.hx",
+		"/G/Documents and Settings/Администратор/Application Data/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/dev/prj/Craft Quest/assets/lang/en/research.txt",
+		"/D/dev/prj/Craft Quest/assets/lang/en/materials.txt",
+		"/D/dev/prj/Craft Quest/src/panel/LogPanel.hx",
+		"/D/dev/prj/Craft Quest/openfl-readme.txt",
+		"/D/dev/prj/Craft Quest/application.xml",
+		"/D/dev/prj/Craft Quest/assets/lang/en/common.txt",
+		"/D/dev/prj/Craft Quest/src/panel/TextPanel.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/gen/_Printf/FormatToken.h",
+		"/D/dev/prj/Craft Quest/src/panel/MinePanel.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/geom/ColorTransform.h",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/src/openfl/text/TextFieldAutoSize.cpp",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/display/JointStyle.h",
+		"/D/dev/prj/Craft Quest/src/gen/DataLoader.hx",
+		"/D/dev/prj/Craft Quest/src/ui/Panel.hx",
+		"/D/dev/prj/Craft Quest/assets/locales/en-US/data.csv",
+		"/D/dev/prj/Craft Quest/3rd/openfl/tiled/DefaultAssetLoader.hx",
+		"/D/dev/prj/Craft Quest/src/tile/Desert.hx",
+		"/D/dev/prj/Craft Quest/src/Macro.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/events/MouseEvent.h",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/display/SpreadMethod.h",
+		"/D/dev/prj/Craft Quest/src/caption/PanelCaption.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/ui/Panel.h",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/src/ui/Panel.cpp",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/events/TextEvent.h",
+		"/D/dev/prj/Craft Quest/bin/flash/haxe/NMEPreloader.hx",
+		"/D/dev/prj/Craft Quest/src/base/NamedObject.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/utils/CompressionAlgorithm.h",
+		"/D/dev/prj/Craft Quest/src/ui/KeyboardPanel.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/bin/lang/en.txt",
+		"/D/dev/prj/Craft Quest/src/ui/Keyboard.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/events/KeyboardEvent.h",
+		"/D/dev/prj/Craft Quest/src/input/Kbd.hx",
+		"/D/dev/prj/Craft Quest/assets/locales/index.xml",
+		"/D/dev/prj/Craft Quest/src/ui/PanelCaption.hx",
+		"/D/dev/prj/Craft Quest/src/ui/Console.hx",
+		"/D/dev/prj/Craft Quest/src/gen/Trash.hx",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/errors/RangeError.h",
+		"/D/dev/prj/Craft Quest/bin/windows/cpp/obj/include/openfl/utils/ArrayBufferView.h",
+		"/D/dev/prj/Craft Quest/src/gen/Printf.hx",
+		"/G/dl/1b72adacdd6ea01239246e94e415fcd6.zip",
+		"/C/util/Autohotkey/zoom/lib/history.ahk",
+		"/C/util/Autohotkey/zoom/lib/rec/hash.ahk",
+		"/C/util/Autohotkey/zoom/players.ahk",
+		"/C/util/Autohotkey/zoom/data/hash/names.txt",
+		"/C/util/Autohotkey/zoom/hotkeys.ahk",
+		"/C/util/Autohotkey/zoom/lib/rec/name.ahk",
+		"/C/util/Autohotkey/zoom/lib/rec/board.ahk",
+		"/C/util/Autohotkey/zoom/lib/pt/db.ahk",
+		"/C/util/Autohotkey/zoom/data/history/full/119061004310.txt",
+		"/C/util/Autohotkey/zoom/lib/background.ahk",
+		"/C/util/Autohotkey/zoom/log.txt",
+		"/C/util/Autohotkey/zoom/data/history/full/119035311429.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/119059231853.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/118582142362.txt",
+		"/C/util/Autohotkey/zoom/data/history/parsed/119035315757.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/11903643812.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/11905848158.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/1190590316156.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/119059158854.txt",
+		"/C/util/Autohotkey/zoom/data/history/parsed/119035311429.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/119035311429.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/119035315757.txt",
+		"/C/util/Autohotkey/zoom/lib/common.ahk",
+		"/C/util/Autohotkey/zoom/data/history/new/11903653239.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/119035325987.txt",
+		"/C/util/Autohotkey/zoom/test.ahk",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/DataBaseMySQL.ahk",
+		"/C/util/Autohotkey/zoom/scanner.ahk_Debug_Log.txt",
+		"/C/util/Autohotkey/zoom/3rd/psql/psql_ram.ahk",
+		"/G/Documents and Settings/Администратор/Application Data/Sublime Text 3/Packages/User/go2function.sublime-settings",
+		"/G/Documents and Settings/Администратор/Application Data/Sublime Text 3/Packages/sublime-find-function-definition/go2function.py",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Server=localhost;Port=5432;Database=PT4_2014_07_13_145708;Uid=postgres;",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/DBA.ahk",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/clean.bat",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/Collection.ahk",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/DataBaseAbstract.ahk",
+		"/C/util/Autohotkey/zoom/3rd/psql/psql.ahk",
+		"/G/Documents and Settings/Администратор/Application Data/Sublime Text 3/Packages/sublime-find-function-definition/go2function.sublime-settings",
+		"/C/util/Autohotkey/zoom/lib/rec/hand.ahk",
+		"/C/util/Autohotkey/zoom/lib/pt/pt4.ahk",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/DataBaseSQLLite.ahk",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/DataBaseFactory.ahk",
+		"/C/util/Autohotkey/zoom/3rd/IsNull-ahkDBA-fcf5fbc/Lib/DataBaseADO.ahk",
+		"/C/util/Autohotkey/zoom/data/history/new/33119059469.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/191 1838335.txt",
+		"/C/util/Autohotkey/zoom/data/history/new/395 40 13  123113.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			":ExportFields",
+			"ExportFields",
+			"green_ok",
+			"buildCostIcons",
+			"inputIcons",
+			"buildCostIcons",
+			"iconFile",
+			"basetime",
+			"hardness",
+			"\n		",
+			"basetime",
+			"hardness",
+			"spaceship",
+			"\"id\"",
+			"resourceItemInfo",
+			"researchItemInfo",
+			"abstract",
+			"public",
+			"static",
+			"item.id",
+			"ResourceItem",
+			"addExportFields",
+			"addExtraFields",
+			"resource_id",
+			"Research",
+			"order",
+			"counter",
+			"onClick",
+			"MouseEvent",
+			"clickHandler",
+			"description",
+			"dev\\prj\\Craft Quest",
+			"public",
+			":",
+			"f4",
+			"context_files",
+			"Iron",
+			"iron_ore",
+			"research",
+			"getinsta",
+			"mouse",
+			"Lib.current.stage.",
+			"ROLL_OUT",
+			"clickHandler",
+			"ClickHandler",
+			"MouseOut",
+			"mouseOut",
+			"MouseOut",
+			"mouseOut",
+			"MouseOut",
+			"ROLL_OVER",
+			"MouseOver",
+			"mouseOver",
+			"MouseOver",
+			"mouseOver",
+			"MouseOver",
+			"OverHandler",
+			"clickHandler",
+			"mouseOverHandler",
+			"setUpdateHandler",
+			"handler",
+			"caption",
+			"Str",
+			"resourceInfo",
+			"materials",
+			"wood/",
+			"wood",
+			"}",
+			"{\"",
+			"Singleton",
+			"tf",
+			"resear",
+			"Resear",
+			"resear",
+			"research",
+			"Research",
+			"research",
+			"Sprite",
+			"textFormat",
+			"Sprite",
+			"GradientContainer",
+			"current.addChild",
+			"addChild",
+			"cast",
+			"CaptionSprite",
+			"activeCaption",
+			"class",
+			"<flash.display.DisplayObject>",
+			"openfl",
+			"Sprite",
+			"Class<Sprite>",
+			"CaptionSprite",
+			"addChi",
+			"onKey",
+			"onKeyDown",
+			"addEventListener",
+			"added",
+			"researchItem",
+			"ongoing_mining",
+			"hoverCaption",
+			"hovethirCaption",
+			"p.",
+			"hoverCaption",
+			"onMouseOut",
+			"onMouseOver",
+			"activeCaption",
+			"passiveCaption",
+			",",
+			"static function",
+			"public",
+			"t.",
+			"t",
+			"textarea",
+			"Panels",
+			"drawContents",
+			"ResolveTable",
+			"HG2BHE2BBHC2DBH9H9HHB",
+			"HB8H9HIHIH9HB8",
+			"HBGH2GHDEHDEH9HB3B4",
+			"return",
+			"hash",
+			"digitHash",
+			"hash",
+			"digitHash",
+			"str",
+			"numHash",
+			"ResolveHandNumber",
+			"HandIdHashPowerMask"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":Array<String>",
+			"Array<String>",
+			"icon_file",
+			"crafttime",
+			"1",
+			"0",
+			"Z"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tm.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"status",
+				"src\\structure\\StructureStatusBar.hx"
+			],
+			[
+				"reseajs",
+				"assets\\data\\json\\item\\research.json"
+			],
+			[
+				"reseaha",
+				"src\\research\\ResearchHandler.hx"
+			],
+			[
+				"ent",
+				"src\\gen\\Entity.hx"
+			],
+			[
+				"pla",
+				"src\\base\\Player.hx"
+			],
+			[
+				"itempa",
+				"src\\panel\\ItemPanel.hx"
+			],
+			[
+				"resou",
+				"src\\resource\\Resource.hx"
+			],
+			[
+				"crafit",
+				"src\\resource\\CraftItem.hx"
+			],
+			[
+				"play",
+				"src\\base\\Player.hx"
+			],
+			[
+				"json",
+				"assets\\data\\json\\materials.json"
+			],
+			[
+				"la",
+				"src\\Lang.hx"
+			],
+			[
+				"mate",
+				"assets\\lang\\en\\materials.json"
+			],
+			[
+				"lan",
+				"src\\Lang.hx"
+			],
+			[
+				"txt",
+				"assets\\lang\\en\\research.txt"
+			],
+			[
+				"matet",
+				"assets\\lang\\en\\materials.txt"
+			],
+			[
+				"comm",
+				"assets\\lang\\en\\common.txt"
+			],
+			[
+				"en",
+				"src\\gen\\Entity.hx"
+			],
+			[
+				"intera",
+				"src\\caption\\InteractiveCaption.hx"
+			],
+			[
+				"reseacap",
+				"src\\caption\\ResearchCaption.hx"
+			],
+			[
+				"dataload",
+				"src\\gen\\DataLoader.hx"
+			],
+			[
+				"pane",
+				"src\\ui\\Panel.hx"
+			],
+			[
+				"panel",
+				"src\\ui\\PanelContainer.hx"
+			],
+			[
+				"text",
+				"src\\panel\\TextPanel.hx"
+			],
+			[
+				"log",
+				"src\\panel\\LogPanel.hx"
+			],
+			[
+				"pan",
+				"src\\ui\\PanelContainer.hx"
+			],
+			[
+				"mine",
+				"src\\panel\\MinePanel.hx"
+			],
+			[
+				"rescap",
+				"src\\caption\\ResearchCaption.hx"
+			],
+			[
+				"",
+				"src\\research\\ResearchItem.hx"
+			],
+			[
+				"rese",
+				"src\\research\\ResearchItem.hx"
+			],
+			[
+				"inter",
+				"src\\caption\\InteractiveCaption.hx"
+			],
+			[
+				"res",
+				"src\\panel\\ResearchPanel.hx"
+			],
+			[
+				"keybo",
+				"src\\ui\\KeyboardPanel.hx"
+			],
+			[
+				"inte",
+				"src\\caption\\InteractiveCaption.hx"
+			],
+			[
+				"resea",
+				"assets\\lang\\en\\research.txt"
+			],
+			[
+				"conso",
+				"src\\ui\\Console.hx"
+			],
+			[
+				"panelc",
+				"src\\ui\\PanelContainer.hx"
+			],
+			[
+				"panelca",
+				"src\\ui\\PanelCaption.hx"
+			],
+			[
+				"textpa",
+				"src\\panel\\TextPanel.hx"
+			],
+			[
+				"logpa",
+				"src\\panel\\LogPanel.hx"
+			],
+			[
+				"cons",
+				"src\\panel\\ConsolePanel.hx"
+			],
+			[
+				"pa",
+				"src\\ui\\PanelContainer.hx"
+			],
+			[
+				"ha",
+				"lib\\rec\\hash.ahk"
+			],
+			[
+				"his",
+				"lib\\history.ahk"
+			],
+			[
+				"hotke",
+				"hotkeys.ahk"
+			],
+			[
+				"names",
+				"data\\hash\\names.txt"
+			],
+			[
+				"nam",
+				"lib\\rec\\name.ahk"
+			],
+			[
+				"name",
+				"lib\\rec\\name.ahk"
+			],
+			[
+				"hot",
+				"hotkeys.ahk"
+			],
+			[
+				"db",
+				"lib\\pt\\db.ahk"
+			],
+			[
+				"hand",
+				"lib\\rec\\hand.ahk"
+			],
+			[
+				"bac",
+				"lib\\background.ahk"
+			],
+			[
+				"boar",
+				"lib\\rec\\board.ahk"
+			],
+			[
+				"n",
+				"data\\hash\\names.txt"
+			],
+			[
+				"nm",
+				"data\\hash\\names.txt"
+			],
+			[
+				"ocr",
+				"lib\\rec\\ocr.ahk"
+			],
+			[
+				"md5",
+				"3rd\\md5.ahk"
+			],
+			[
+				"has",
+				"lib\\rec\\hash.ahk"
+			],
+			[
+				"hash",
+				"data/name/hash.txt"
+			],
+			[
+				"na",
+				"lib/rec/name.ahk"
+			],
+			[
+				"fore",
+				"lib/foreground.ahk"
+			],
+			[
+				"scr",
+				"3rd/Capture2Text_AHK_Script/ScreenCapture.ahk"
+			],
+			[
+				"commo",
+				"lib/common.ahk"
+			],
+			[
+				"co",
+				"lib/common.ahk"
+			],
+			[
+				"board",
+				"lib/rec/board.ahk"
+			],
+			[
+				"scre",
+				"3rd/Capture2Text_AHK_Script/ScreenCapture.ahk"
+			],
+			[
+				"com",
+				"lib/common.ahk"
+			],
+			[
+				"lib",
+				"lib/background.ahk"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\util\\Autohotkey\\zoom\\zoom.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
